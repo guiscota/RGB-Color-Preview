@@ -1,6 +1,6 @@
 # RGB Color Preview
 
-Core selection tool to obtain the RGB and hexadecimal code of the image.
+Core selection tool to obtain the RGB and hexadecimal code of the image. [See the project working](http://guilhermesoares.tech/github/RGB-Color-Preview/).
 
 ### Gif
 ![Alt text](http://guilhermesoares.tech/github/RGB-Color-Preview/Trabalho1-IGTI-Guilherme-Soares.gif?raw=true "Animation of tool usage")
