@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Guilherme Soares Cota">
+    <meta name="description" content="Trabalho Prático do Módulo 1 - Bootcamp IGTI Desenvolvedor Full Stack">
+
+    <title>Trabalho Prático do Módulo 1</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+
+    <h1>RGB Color Preview</h1>
+    <h3>Guilherme Soares Cota</h3>
+
+    <div class="row">
+        <div class="column1">
+            <p>
+            <p>(R) Vermelho:</p>
+            <input class="rangeInput" type="range" min="0" max="255" step="1" id="rangeRed" value="0">
+            <input class="valueColor" type="number" id="valueRed" value="0" disabled>
+            </p>
+            <p>
+            <p>(G) Verde:</p>
+            <input class="rangeInput" type="range" min="0" max="255" step="1" id="rangeGreen" value="0">
+            <input class="valueColor" type="number" id="valueGreen" value="0" disabled>
+            </p>
+            <p>
+            <p>(B) Azul:</p>
+            <input class="rangeInput" type="range" min="0" max="255" step="1" id="rangeBlue" value="0">
+            <input class="valueColor" type="number" id="valueBlue" value="0" disabled>
+            </p>
+        </div>
+
+        <div class="column2">
+            <div id="display"></div>
+            <input type="text" id="valueHex" value="#000000" disabled>
+            <button type="button" id="resetButton"><img src="https://img.icons8.com/offices/30/000000/refresh.png" />
+                Resetar</button>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
