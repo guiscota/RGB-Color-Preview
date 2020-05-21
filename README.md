@@ -3,7 +3,7 @@
 Core selection tool to obtain the RGB and hexadecimal code of the image. [See the project working](http://guilhermesoares.tech/github/RGB-Color-Preview/).
 
 ### Gif
-![Alt text](http://guilhermesoares.tech/github/RGB-Color-Preview/Trabalho1-IGTI-Guilherme-Soares.gif?raw=true "Animation of tool usage")
+![Alt text](http://guilhermesoares.tech/github/RGB-Color-Preview/src/Trabalho1-IGTI-Guilherme-Soares.gif?raw=true "Animation of tool usage")
 
 ### About this project
 This project was a practical work related to module 1 of the online bootcamp that is being carried out at IGTI - Institute of Management and Information Technology.
